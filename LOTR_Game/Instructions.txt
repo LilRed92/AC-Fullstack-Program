@@ -6,6 +6,8 @@
 4. Down in renderCharacter(), set diceHtml equals to our new getDiceHtml function. Remember to give it the argument it needs.
 5. Delete any code we no longer need.
 
+-----document.getElementById('winning-numbers').innerHTML = getWinningNumbersHTML()
+
 
 ==Hints:==
 
